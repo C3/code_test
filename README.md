@@ -4,7 +4,7 @@ We'd like you to make a small script that checks a CSV file.  We don't want you 
 
 What we want:
 
-A command line script  that reads the attached CSV file (data.csv) and implements the following four rules: 
+A command line script that reads the attached CSV files (data1.csv and data2.csv) and implements the following four rules: 
 
 1. Names cannot be less than four characters 
 
