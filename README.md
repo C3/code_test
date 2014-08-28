@@ -23,7 +23,7 @@ This thing reads the attached CSV files (`data1.csv` and `data2.csv`), and valid
 3. The salary must be an integer, and not a float
 4. The postcode must exist
 
-If any of the first three rules are broken then we should get a warning message.
+If any of the first three rules are broken then we should get a warning message showing which rule/s were broken.
 If the fourth rule is broken then we need an error message.
 
 That's about it. Have fun.
