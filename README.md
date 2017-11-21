@@ -5,9 +5,10 @@ We'd like you to build a thing that validates data in a CSV file.
 We don't want you to go crazy on this thing, just a few hours.
 
 There's no language requirement and there's no one right answer.
-Once you've given it a shot, get the code to us with whatever tests/thoughts you have.
+Once you've given it a shot, get the code to us with whatever thoughts you have.
+It's good to see easy to read code with nice comments and unit tests. Make sure there are instructions on how to build/run the program.
 We're interested in the tradeoffs you make, and want to learn a bit about your process.
-For that reason, it's best if you send us a git repo.
+For that reason, it's best if you send us a git repo (e.g. GitHub, BitBucket, self-hosted, etc).
 We're realistic, and we make mistakes ourselves; so don't make it perfect, unless you're bored enough to add ANSI colours :D
 
 The Brief
